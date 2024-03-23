@@ -1,6 +1,7 @@
 title: Vikas Vyas # your name (or website title) here
-logo: /assets/img/Vikas-Photo.jpg # your photo (or logo) here
+logo: /assets/img/Vikas-Photo.JPG # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+showdownloads: true
   First description 
   <br><br>
   Second description 
