@@ -4,7 +4,6 @@
 
 Hi, I'm Vikas, a Research Analyst currently working at a tech company functioning in the healthcare space. I have 3+ years of experience in market research, competitive intelligence, data analysis, and more.
 
-<img src="Vikas-Photo.JPG"/>
 
 ### Installation
 
