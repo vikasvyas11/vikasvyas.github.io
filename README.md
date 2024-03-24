@@ -1,4 +1,4 @@
-# Vikas Vyas landing page for Data Science
+# Data Science Portfolio
 <br>
 
 ### Introduction
