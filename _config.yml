@@ -1,7 +1,7 @@
 title: Vikas Vyas # your name (or website title) here
-logo: /assets/img/Vikas-Photo.JPG # your photo (or logo) here
+logo: <img src="Vikas-Photo.JPG"/> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, I'm Vikas, I'm a research analyst at a tech company functioning in the healthcare space. I have expertise in qualitative and quantitve analysis, competitive intelligence, and market tracking.
+  Hi, I'm Vikas, a research analyst at a tech company functioning in the healthcare space. I have expertise in qualitative and quantitve analysis, competitive intelligence, and market tracking.
   <br><br>
   My hard skills include: SQL, Tableau, Excel/Google Sheets, and Python. 
   <br><br>
