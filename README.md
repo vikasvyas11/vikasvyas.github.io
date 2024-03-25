@@ -1,7 +1,7 @@
 # Data Science Portfolio
 <br>
 
-### Introduction
+## Introduction
 
 Hi, I'm Vikas, a Research Analyst currently working at a tech company functioning in the healthcare space. I have 3+ years of experience in market research, competitive intelligence, data analysis, and more.
 
@@ -12,4 +12,14 @@ You can find my portfolio projects below:
 2. World Happiness Index (Tableau)
 3. Unemployment rates in the US (SQL & Tableau)
 4. COVID-19 incedences (SQL & Tableau)
+
+## Education
+<br>
+- Master of Science in Biotechnology from The University of Melbourne, Australia (QS #14)
+- Bachelor of Science in Chemistry Hons. from Subodh P.G. College, Jaipur
+
+## Professional Experience
+<br> 
+- Market Research Analyst @ Triomics (Feb 2022 - Present)
+- Market Research Consultant (Intern) @ Oncology One Pvt Ltd (Mar 2021 - Dec 2021)
  
