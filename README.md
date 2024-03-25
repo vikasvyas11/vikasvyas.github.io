@@ -14,10 +14,10 @@ You can find my portfolio projects below:
 4. COVID-19 incedences (SQL & Tableau)
 
 ## Education
-*Master of Science in **Biotechnology** from **The University of Melbourne**, Australia (QS #14)  
-*Bachelor of Science in Chemistry Hons. from Subodh P.G. College, Jaipur
+- Master of Science in **Biotechnology** from **The University of Melbourne**, Australia (QS #14)  
+- Bachelor of Science in Chemistry Hons. from Subodh P.G. College, Jaipur
 
 ## Professional Experience
-*Market Research Analyst @ Triomics, India (Feb 2022 - Present)  
-*Market Research Consultant (Intern) @ Oncology One Pvt Ltd, Australia (Mar 2021 - Dec 2021)
+- Market Research Analyst @ Triomics, India (Feb 2022 - Present)  
+- Market Research Consultant (Intern) @ Oncology One Pvt Ltd, Australia (Mar 2021 - Dec 2021)
  
