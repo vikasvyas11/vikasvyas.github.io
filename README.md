@@ -9,7 +9,7 @@ Hi, I'm Vikas, a Research Analyst currently working at a tech company functionin
 You can find my portfolio projects below:  
 - [Indian Chemical Production between 2013 to 2021 EDA (Python)](https://vikasvyas11.github.io/MajorChemicals2013-2021.html)
 - [Indian Chemical Production between 2013 to 2021 Area Charts (Tableau)](https://public.tableau.com/views/IndiaChemicalProduction/Dashboard1AreaCharts?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-- [COVID-19 Confirmed Cases and Deaths in India till 2022 (Python)](https://vikasvyas11.github.io/covid19_india.html)
+- [COVID-19 Confirmed Cases and Deaths in India till 2022 (Python)](https://vikasvyas11.github.io/covid19_india_lr.html)
 - World Happiness Index (Tableau)  
 - Unemployment rates in the US (SQL & Tableau)  
 - COVID-19 incedences (SQL & Tableau)  
